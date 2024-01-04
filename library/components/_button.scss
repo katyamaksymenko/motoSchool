@@ -1,0 +1,36 @@
+button {
+    border-radius: $buttonsBorderRadius;
+    padding: $buttonPaddings;
+    color: $white;
+    border: 1px solid #FFF;
+}
+.moto-school__button,
+.asking-form__button,
+.moto-present__button,
+.moto-certificate__button,
+.moto-interest__button,
+.get-certificate__button,
+.moto-interest-popup__button {
+    background-color: $info;
+}
+
+.moto-school__button-sertificate {
+    border: 1px solid #FFF;
+    background-color: transparent;
+    
+}
+.moto-interest-popup__button,
+.moto-school__asking-form button,
+.moto-certificate__button
+{
+    margin-bottom: 3.9rem;
+    margin-left: 36%; 
+}
+.moto-interest__button,
+.get-certificate__button,
+.moto-school__asking-form button {
+    margin-left: 28%; 
+}
+.moto-interest__button {
+    margin-bottom: 14rem;
+}

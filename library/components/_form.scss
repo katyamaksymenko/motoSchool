@@ -1,0 +1,44 @@
+.moto-school__inputs,
+.moto-interest__inputs {
+    margin-left: 23%;
+}
+input {
+    border: none;
+    background-color: transparent;
+    color: $white;
+    margin: 0 7.5% 3rem 0;
+    border-bottom: solid 0.0625rem $footerBg;
+    width: 18%;
+}
+.moto-school__asking-form input {
+    position: relative;
+    z-index: 2;   
+}
+.moto-school__asking-form {
+    position: relative;
+}
+input:focus{
+    outline: none;
+    background-color: transparent;
+}
+.moto-interest-popup__inputs,
+.have-certificate__inputs {
+    margin-left: 7%;
+}
+.moto-interest-popup,
+#get-certificate,
+#have-certificate {
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    width: 60%;
+    z-index: 100;
+    display: none;
+    padding: 2rem;
+    margin-left: 0;
+}
+
+.moto-interest-popup input,
+.moto-certificate input {
+    width: 25%;
+}

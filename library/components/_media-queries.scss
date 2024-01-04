@@ -1,0 +1,447 @@
+
+
+@media (max-width: 1440px) {
+
+    .moto-school__bike {
+      width: 100%;
+      left: 0;
+      top: 22%;
+    }
+
+    .moto-present h2 {
+      padding-top: 9rem;
+    }
+    .moto-school__conection {
+      padding-bottom: 30rem;
+    }
+    .moto-school-content__images img {
+      margin-right: 22%;
+  }
+    .school__text {
+      margin-left: 12%;
+      padding: 12rem 0 10rem 0;
+    }
+    .bike-presentation__imgcontainer img {
+      top: 20%;
+    }
+    .moto-interest h2 {
+        padding: 10rem 0 3rem 0;
+    }
+    .moto-interest-popup__inputs, 
+    .have-certificate__inputs {
+      margin-left: 0; 
+  }
+  }
+  @media (max-width: 1302px) {
+    .moto-school__asking-form img {
+      height: 32rem;
+    }
+    .moto-present h2 {
+      padding-top: 7.5rem;
+    }
+      .moto-school__asking-form h4 {
+        width: 32%;
+        margin-left: 34%;
+    }
+      .moto-school-content__items p:not(:last-child) {
+        margin-right: 2%;
+    }
+      .moto-school-content__images, .moto-school-content__items {
+        width: 85%;
+        
+    }
+      .moto-school-content__images img:nth-child(2),
+      .moto-school-content__images img:nth-child(3) {
+        margin-left: -5%;
+    }
+      .moto-school-content__images img:last-child {
+        margin-left: -8%;
+    }
+    .moto-interest-popup__inputs, 
+    .have-certificate_inputs,
+    .get-cetificate__inputs {
+      display: flex;
+      flex-direction: column;
+    }
+    .moto-interest-popup__inputs input, 
+    .have-certificate__inputs input,
+    .get-cetificate__inputs input {
+      width: 65%;
+      margin-left: 15%;
+    }
+    .moto-interest-popup__inputs button, 
+    .have-certificate__inputs button,
+    .get-cetificate__inputs button {
+      width: 25%;
+      margin-left: 37%;
+    } 
+
+      
+  }
+  @media (max-width: 1190px) {
+      .moto-school__asking-form img{ 
+        height: 26rem;
+      }
+      .asking-form__form {
+        margin-bottom: -5rem;
+      }
+      .moto-school__asking-form h2 {
+        padding-top: 3rem;
+      }
+      .moto-present__content {
+        margin-left: 10%;
+        margin-bottom: 3rem;
+      }
+      .moto-school__asking-form button {
+        margin-bottom: 0;
+      }
+      .moto-school__inputs, .moto-interest__inputs {
+      margin-left: 8%;
+    }
+      
+      .moto-school__asking-form  input,
+      .moto-interest input {
+          width: 24%;
+      }
+      .moto-school__asking-form button {
+        margin-left: 38%;
+      }
+      .moto-interest__button {
+        margin-left: 38%;
+      }
+  }
+
+  @media (max-width: 1024px) {
+    .school__text {
+      width: 80%;
+      margin-left: 10%;
+      margin-top: -5rem;
+      padding-bottom: 36rem;
+      text-align: center;
+    }
+    .school__experience h2,
+    .school__experience h4
+    {
+        margin-left: 0;
+    }
+    .school__img img {
+      top: 30%;
+      right: 15%;
+      width: 80%;
+    }
+    .school__text .moto-school__line {
+      margin-left: 43%;
+    }
+    .school__asking-form .moto-school__line {
+      top: 24%;
+    }
+    .moto-school__bike {
+      top: 25%;
+    }
+    .moto-school__bgimg {
+      width: 94%;
+    }
+    
+  }
+  @media (max-width: 820px) {
+    .moto-school__bold,
+    .moto-school__normal {
+      font-size: $mobileH2;
+    }
+    .moto-school__conection {
+      padding-bottom: 18rem;
+    }
+    .moto-school__bike {
+      top: 30%;
+    }
+    .moto-school-content__name, 
+    .school__name,
+    .moto-school__name,
+    .moto-school__asking-form h2,
+    .bike-presentation__name,
+    .bike-presentation__video-name {
+        font-size: $mobileH2;
+    }
+   
+    input {
+      width: 22%;
+    }
+    .moto-school__asking-form img{ 
+      height: 18rem;
+      margin-top: 5%;
+    }
+    .moto-school__asking-form {
+      background-color: black;
+    }
+    .moto-school__asking-form h4{
+      padding: 2rem 0 6rem 0;
+      width: 80%;
+      margin-left: 13%;
+    }
+    .bike-presentation__img {
+      width: 26rem;
+      height: 26rem;
+      margin: 4% 0 0 20%;
+    }
+    .bike-presentation__imgcontainer img {
+      top: 23%;
+    }
+    .moto-present {
+      display: block;
+     }
+    .moto-present__img img {
+      margin-left: -5%;
+    }
+    .moto-present__content {
+      margin-left: 12%;
+      margin-bottom: 1rem;
+    }
+    .school__text {
+      padding-bottom: 30rem;
+    }
+    .moto-school-content__items {
+      flex-wrap: wrap;
+    }
+    
+    .moto-school-content__items div {
+      margin-left: 10%;
+      margin-bottom: 10%;
+      width: 30%;
+    }
+    .moto-present__img img {
+      width: 90%;
+    }
+    .moto-school__inputs,
+    .moto-interest__inputs  {
+      margin-left: 5%;
+    }
+    .moto-school__inputs input,
+    .moto-interest__inputs input {
+      width: 24%;
+    }
+    .moto-school__inputs button,
+    .moto-interest__inputs button {
+      margin-left: 35%;
+    }
+    .moto-present__line-container {
+      top: 21%;
+  }
+    .moto-interest-popup__inputs button, 
+    .have-certificate__inputs button,
+    .get-cetificate__inputs button {
+      width: 44%;
+      margin-left: 30%;
+    } 
+    .bike-presentation__video iframe {
+      width: 92%;
+      height: 30rem;
+    }
+    .moto-school__inputs,
+    .moto-interest__inputs {
+      display: flex;
+      flex-direction: column;
+    }
+    .moto-school__inputs input,
+    .moto-interest__inputs input {
+      width: 60%;
+      margin-left: 20%;
+    }
+    .moto-school__inputs button,
+    .moto-interest__inputs button {
+      margin-left: 33%;
+      width: 30%;
+    }
+    .moto-school__asking-form h4 {
+      padding: 2rem 0 3rem 0;
+    }
+    .moto-school__inputs {
+      padding-bottom: 2rem;
+    }
+    .moto-school-content .moto-school__line,
+    .school__text .moto-school__line ,
+    .bike-presentation .moto-school__line{
+      margin-left: 40%;
+    }
+    .moto-school__asking-form .moto-school__line {
+      top: 14%;
+      right: 46%;
+    }
+  }
+  @media (max-width: 540px) {
+    .moto-school__bike {
+      top: 44%;
+    }
+    .moto-school-content__items div{
+      width: 75%;
+    }
+    .moto-school-content__items img { 
+      margin-left: 35%;
+    }
+    .moto-school-content__items div:nth-child(3) img {
+      margin-left: 30%;
+    }
+    .school__img img {
+      top: 44%;
+    }
+    .school__text {
+      padding-bottom: 22rem;
+    }
+    .moto-school__asking-form h4 {
+      text-align: center;
+    }
+    .moto-school__conection {
+      display: flex;
+      flex-direction: column;
+    }
+    .moto-school__conection button {
+      width: 70%;
+      margin: 0 0 1rem 15%;
+      
+    }
+    .moto-school__bike {
+      top: 54%;
+    }
+    .top-nav__nav-items img:first-child {
+      margin-left: 7%;
+    }
+    .moto-school-content__items p {
+      text-align: center;
+    }
+    
+    .moto-school-content__items {
+      margin-left: 10%;
+    }
+    .moto-school__asking-form img {
+      height: 12rem;
+    }
+    
+    .moto-school__asking-form .moto-school__line,
+    .moto-interest .moto-school__line {
+      margin-left: 40%;
+      top: 13%;
+    }
+    .moto-school__inputs input,
+    .moto-interest__inputs input {
+      width: 70%;
+      margin-left: 10%;
+    }
+    .moto-school__inputs button,
+    .moto-interest__inputs button {
+      margin-left: 30%;
+      width: 40%;
+    }
+    .moto-school__conection button {
+      width: 50%;
+      margin: 0 0 1rem 23%;
+  }
+    
+
+}
+  @media (max-width: 414px) {  
+    .bike-presentation__img {
+      width: 12rem;
+      height: 12rem;
+    }
+    .top-nav__nav-items img:first-child {
+      height: 2rem;
+    }
+    .school__img img {
+      top: 60%;
+  }
+    .moto-school__inputs input, 
+    .moto-interest__inputs input {
+      width: 90%;
+      margin-left: 4%;
+  }
+      .moto-school__inputs button, 
+      .moto-interest__inputs button {
+        margin-left: 23%;
+        width: 50%;
+    }
+      .moto-school__bold,
+      .moto-school-content__name,
+      .school__name,
+      .moto-school__asking-form h2,
+      .bike-presentation__name,
+      .bike-presentation__video-name {
+        font-size: 1.5rem;
+    }
+    .moto-school__normal {
+      font-size: 1rem;
+    }
+      .moto-school__asking-form .moto-school__line {
+      margin-left: 39%;
+      top: 12%;
+    }
+    .bike-presentation__name {
+      padding-top: 3rem;
+    }
+    .bike-presentation__video iframe {
+      height: 20rem;
+    }
+    .bike-presentation__imgcontainer img {
+      top: 27%;
+    }
+  }
+  @media (max-width: 412px) { 
+    
+  }
+
+
+
+
+  @media (min-width: 30em) and (orientation: landscape) {
+    /* … */
+  }
+
+  @media (min-height: 680px), screen and (orientation: portrait) {
+    /* … */
+  }
+
+  @media screen and (min-width: 1200px) and (orientation: landscape) { 
+      
+  }
+
+  @media not screen and (min-width: 411px) and (min-height: 731px) { 
+      
+  }
+
+  /* #### Mobile Phones Portrait #### */
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+  /* some CSS here */
+}
+
+/* #### Mobile Phones Landscape #### */
+@media screen and (max-device-width: 640px) and (orientation: landscape){
+  /* some CSS here */
+}
+
+/* #### Mobile Phones Portrait or Landscape #### */
+@media screen and (max-device-width: 640px){
+  /* some CSS here */
+}
+
+/* #### iPhone 4+ Portrait or Landscape #### */
+@media screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
+  /* some CSS here */
+}
+
+/* #### iPhone 5 Portrait or Landscape #### */
+@media (device-height: 568px) and (device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
+  /* some CSS here */
+}
+
+/* #### iPhone 6 and 6 plus Portrait or Landscape #### */
+@media (min-device-height: 667px) and (min-device-width: 375px) and (-webkit-min-device-pixel-ratio: 3){
+  /* some CSS here */
+}
+
+/* #### Tablets Portrait or Landscape #### */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+  /* some CSS here */
+}
+
+/* #### Desktops #### */
+@media screen and (min-width: 1024px){
+  /* some CSS here */
+}
